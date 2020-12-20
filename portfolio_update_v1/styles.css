@@ -25,11 +25,12 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: #ffb3b3;
   min-height: 30px;
   padding: 10px;
   position: fixed;
   text-align: center;
+  opacity: 80%;
 }
 .nav {
   display: flex;
@@ -80,7 +81,7 @@ header .profile-image:hover {
   background-color: #efefef;
   color: black;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
   display: table;
   margin: 10px auto;
   opacity: 80%;
@@ -97,9 +98,10 @@ header .profile-image:hover {
   text-align: left;
   background: #004080;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
+  border-radius: 10px;
   transition: all .5s;
   color: #fff;
+  opacity: 80%;
 }
 .card:hover {
   border-color: #fff;
@@ -111,7 +113,7 @@ ul.skills {
 }
 
 .skills li {
-  border-radius: 6px;
+  border-radius: 10px;
   display: inline-block;
   background: #ffccb3;
   color: white;

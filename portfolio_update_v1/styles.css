@@ -77,6 +77,23 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.3) rotate(15deg);
 }
+
+.card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #004080;
+  border-bottom: 4px solid #ccc;
+  border-radius: 10px;
+  transition: all .5s;
+  color: #fff;
+  opacity: 80%;
+}
+.card:hover {
+  border-color: #fff;
+}
+
 .tag {
   background-color: #efefef;
   color: black;

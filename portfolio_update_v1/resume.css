@@ -76,6 +76,20 @@ header {
   border-color: #fff;
 }
 
+.tag {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  display: table;
+  margin: 10px auto;
+  opacity: 80%;
+} 
+.location {
+  background-color: #00264d;
+  color: white;
+  opacity: 60%;
+}
 
 ul.qualifications {
   padding: 0;

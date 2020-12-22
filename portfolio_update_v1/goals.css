@@ -107,7 +107,6 @@ ul.qualifications {
   text-align: left;
 }
 
-
 footer {
   width: 100%;
   min-height: 30px;
@@ -187,3 +186,4 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+}

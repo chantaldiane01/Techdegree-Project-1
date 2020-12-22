@@ -129,6 +129,14 @@ ul.skills {
   background: #ffb3b3;
 }
 
+.background-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;

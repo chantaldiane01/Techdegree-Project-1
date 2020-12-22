@@ -58,13 +58,22 @@ header {
 header {
   line-height: 1.5;
 }
-header .profile-image {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 25%;
-  border: 3px solid white;
+
+
+.card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #004080;
+  border-bottom: 4px solid #ccc;
+  border-radius: 10px;
   transition: all .5s;
+  color: #fff;
+  opacity: 80%;
+}
+.card:hover {
+  border-color: #fff;
 }
 
 .section-title {
@@ -78,6 +87,24 @@ header .profile-image {
   transition: all .5s;
   color: #fff;
   opacity: 80%;
+}
+
+ul.qualifications {
+  padding: 0;
+  text-align: center;
+}
+
+.qualifications li {
+  border-radius: 10px;
+  display: inline-block;
+  background: #ffccb3;
+  color: white;
+  padding: 5px 10px;
+  margin: 2px;
+}
+
+.qualifications li:nth-child(odd) {
+  background: #ffb3b3;
 }
 
 footer {

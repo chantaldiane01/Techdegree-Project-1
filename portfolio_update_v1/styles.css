@@ -91,21 +91,6 @@ header .profile-image:hover {
   color: white;
   opacity: 60%;
 }
-.card {
-  margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
-  text-align: left;
-  background: #004080;
-  border-bottom: 4px solid #ccc;
-  border-radius: 10px;
-  transition: all .5s;
-  color: #fff;
-  opacity: 80%;
-}
-.card:hover {
-  border-color: #fff;
-}
 
 ul.skills {
   padding: 0;

@@ -106,18 +106,6 @@ ul.qualifications {
   text-align: center;
 }
 
-.qualifications li {
-  border-radius: 10px;
-  display: inline-block;
-  background: #ffccb3;
-  color: white;
-  padding: 5px 10px;
-  margin: 2px;
-}
-
-.qualifications li:nth-child(odd) {
-  background: #ffb3b3;
-}
 
 footer {
   width: 100%;

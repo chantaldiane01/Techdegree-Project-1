@@ -31,6 +31,7 @@ a:hover {
   position: fixed;
   text-align: center;
   opacity: 80%;
+  z-index: 999;
 }
 .nav {
   display: flex;
@@ -103,6 +104,7 @@ header .profile-image:hover {
   margin: 10px auto;
   opacity: 80%;
 } 
+
 .location {
   background-color: #00264d;
   color: white;

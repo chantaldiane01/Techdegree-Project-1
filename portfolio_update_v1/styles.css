@@ -137,6 +137,26 @@ ul.skills {
   border-radius: 10px;
 }
 
+.info {
+  background-color: #00264d;
+  color: white;
+  opacity: 60%;
+}
+
+ul.qualifications {
+  padding: 0;
+  text-align: left;
+}
+
+.hiarng {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 10px;
+}
+
+
 footer {
   width: 100%;
   min-height: 30px;
